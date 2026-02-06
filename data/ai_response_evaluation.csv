@@ -1,0 +1,6 @@
+Question,AI_Generated_Response,Accuracy_Score,Clarity_Score,Issues_Found
+What is Artificial Intelligence?,AI is the ability of machines to simulate human intelligence.,5,5,None
+Explain Machine Learning,Machine Learning allows systems to learn from data.,4,4,Minor simplification
+What is Deep Learning?,Deep Learning is a subset of machine learning using neural networks.,4,3,Needs more examples
+What is Data Science?,Data Science combines statistics and computing to analyze data.,5,5,None
+Define Neural Networks,Neural networks are computing systems inspired by the human brain.,3,3,Lacks depth
