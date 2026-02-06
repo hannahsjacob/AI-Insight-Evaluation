@@ -19,3 +19,15 @@ and provides improved versions of responses.
 
 ## Outcome
 Created a structured evaluation framework similar to real-world AI Trainer workflows.
+
+## Sample Output
+The project generates a CSV file containing evaluated AI responses with accuracy and clarity scores,
+along with identified issues for improvement.
+
+## Skills Demonstrated
+- AI response evaluation
+- Data analysis using Python
+- SQL-based insights
+- Documentation and structured workflows
+
+
